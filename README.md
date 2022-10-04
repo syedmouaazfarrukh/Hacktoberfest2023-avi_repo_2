@@ -1,7 +1,7 @@
 # Hacktoberfest2022-avi_repo_2
 About 💡 This repo will have python script to compare two dataset and return the difference in any format ✌️ 🌸
 
-Just fork it and add a `'Data Cpmparer '` python program to contribute for hacktober fest and send a Pull Request!!
+Just fork it and add a `'Data Comparer'` python program to contribute for hacktober fest and send a Pull Request!!
 
 ### Get yourself free goodies by just writing a hello world!
 
